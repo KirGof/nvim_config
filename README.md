@@ -7,11 +7,11 @@ In this you can make many files and directors, but main file is init.lua, witch 
 
 I have:
 
-nvim
-├── init.lua
-└── lua
-    ├── mappings.lua
-    └── plugins.lua
+nvim<br>
+├── init.lua<br>
+└── lua<br>
+    ├── mappings.lua<br>
+    └── plugins.lua<br>
 
 
 In the future, maybe more.
@@ -59,16 +59,16 @@ map('n', '\\', ':split<CR>')
 More information look in the config files.
 
 List plugins:
-[Lazy](https://github.com/folke/lazy.nvim)
-[Nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
-[Nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
-[Mini.nvim](https://github.com/echasnovski/mini.nvim?tab=readme-ov-file#installation)
-[Nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-[Mason](https://github.com/williamboman/mason.nvim)
-[Mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim) 
-[Nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-[Telescope](https://github.com/nvim-telescope/telescope.nvim)
-[Conform](https://github.com/stevearc/conform.nvim)
+[Lazy](https://github.com/folke/lazy.nvim)<br>
+[Nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)<br>
+[Nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)<br>
+[Mini.nvim](https://github.com/echasnovski/mini.nvim?tab=readme-ov-file#installation)<br>
+[Nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)<br>
+[Mason](https://github.com/williamboman/mason.nvim)<br>
+[Mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim) <br>
+[Nvim-cmp](https://github.com/hrsh7th/nvim-cmp)<br>
+[Telescope](https://github.com/nvim-telescope/telescope.nvim)<br>
+[Conform](https://github.com/stevearc/conform.nvim)<br>
 
 
 
