@@ -1,0 +1,12 @@
+require("mappings")
+require("config")
+require("core")
+require("plugins/nvim-web-devicons")
+require("plugins/nvim-tree")
+require("plugins/mini")
+require("plugins/mason")
+require("plugins/cmp")
+require("plugins/telescope")
+require("plugins/lsp-progress")
+require("plugins/treesitter")
+
