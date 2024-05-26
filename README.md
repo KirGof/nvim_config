@@ -12,7 +12,7 @@ nvim<br>
 ├── init.lua<br>
 └── lua<br>
     ├── config.lua<br>
-    ├── core.lua<br>
+<Tab>├── core.lua<br>
     ├── mappings.lua<br>
     └── plugins<br>
         ├── cmp.lua<br>
