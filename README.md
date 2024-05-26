@@ -7,24 +7,24 @@ In this you can make many files and directors, but main file is init.lua, witch 
 
 I have:
 
-
-nvim<br>
-├── init.lua<br>
-└── lua<br>
-    ├── config.lua<br>
-<Tab>├── core.lua<br>
-    ├── mappings.lua<br>
-    └── plugins<br>
-        ├── cmp.lua<br>
-        ├── conform.lua<br>
-        ├── lsp-progress.lua<br>
-        ├── mason.lua<br>
-        ├── mini.lua<br>
-        ├── nvim-tree.lua<br>
-        ├── nvim-web-devicons.lua<br>
-        ├── telescope.lua<br>
-        └── treesitter.lua<br>
-
+```
+nvim
+├── init.lua
+└── lua
+    ├── config.lua
+    ├── core.lua
+    ├── mappings.lua
+    └── plugins
+        ├── cmp.lua
+        ├── conform.lua
+        ├── lsp-progress.lua
+        ├── mason.lua
+        ├── mini.lua
+        ├── nvim-tree.lua
+        ├── nvim-web-devicons.lua
+        ├── telescope.lua
+        └── treesitter.lua
+```
 In the future, maybe more.
 
 ## Mapping && Config.
